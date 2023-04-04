@@ -1,0 +1,9 @@
+Workflow
+-Take photos
+-Workflow > Align Photos
+-Workflow > 
+-Workflow > Build Dense Cloud > Advanced > Calculate Point Confidence
+-Workflow > Build Mesh
+
+-Tools > Dense Cloud > Filter by Confidence
+  *Min - 2, Max - 255
