@@ -3,7 +3,7 @@ Notes, etc. from Johnson's 2023 UAV SFM Class
 
 Class website - https://sites.google.com/boisestate.edu/uavsfm2023
 
-2023 Apr 4
+### 2023 Apr 4
 Reconstructing Model from Canned Data
 
 * Will talk about flight planning
