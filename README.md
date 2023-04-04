@@ -20,3 +20,4 @@ Reconstructing Model from Canned Data
 * Dense cloud > Medium
 * workflow: build DEM - make a note of its resolution (0.2 m)
 * Information about the algorithms used by Agisoft Metashape
+* MAPS Pilot Pro drone flight planning software - https://www.mapsmadeeasy.com/map_pilot/
